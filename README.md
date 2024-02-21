@@ -6,6 +6,8 @@ status: Published
 
 # Máquina: Lian_Yu
 
+Tryhackme: Lian_Yu
+
 Lo primero que haremos, será realizar un escaneo de puertos con la herramienta “NMap”.
 
 ![Untitled00](img/Untitled00.png)
